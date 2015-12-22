@@ -1,0 +1,5 @@
+<MAIN>
+<IF bool="TRUE">
+DO EXCEPTION TAG <TAG><ALERT v="BX"/></TAG>
+</IF>
+</MAIN>
